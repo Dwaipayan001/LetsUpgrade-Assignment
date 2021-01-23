@@ -1,0 +1,14 @@
+Letsupgrade Assignment Day 5
+Q-1:Name 5 sorting Algorithms with their time complexities.
+Answer: The 5 sorting algorithms are as follows:
+i.Insertion Sort.
+ii.Selection Sort.
+iii.Bubble Sort.
+iv.Merge Sort.
+v.Quick Sort.
+Time Complexities :-
+1) Insertion Sort :- Best Case : Ω(n), Average Case : θ(n^2), Worst Case : O(n^2)
+2) Selection Sort: Best Case : Ω(n), Average Case : θ(n^2), Worst Case : O(n^2).
+3) Bubble Sort : Best Case : O(n^2), Average Case : O(n), Worst Case : O(n^2)
+4) Merge Sort : Best Case : O(n log n), Average Case : O(n log n), Worst Case : O(n log n)
+5) Quick Sort : Best Case : O(n) for 3 way partition or O(n log n) simple partition, Average Case : O(n log n), Worst Case : O(n^2).
